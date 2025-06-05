@@ -67,7 +67,7 @@ Basic Python libraries such as nltk or transformers (if you want to enhance the 
 
     After installing the dependencies, run the chatbot using the following command:
 
-        python chatbot.py
+        streamlit run chatbot.py
 
     The chatbot will be available in the terminal for interaction.
 
